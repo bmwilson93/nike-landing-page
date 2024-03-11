@@ -19,7 +19,7 @@ const Footnote = () => {
     `}>
       <p className="pb-3">This landing page project is not affiliated in any way with Nike, Nike Inc., or nike.com.</p>
       <p className="underline cursor-pointer">
-        <a href="#">View the code on github</a>
+        <a href="https://github.com/bmwilson93/nike-landing-page">View the code on github</a>
       </p>
 
     </div>
